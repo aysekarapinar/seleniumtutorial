@@ -1,4 +1,4 @@
-#PyTest decoratorler nedir? 
+# PyTest decoratorler nedir? 
 
 Parametre olarak fonksiyon alan, geriye fonksiyon döndüren fonksiyonlardır. Decoratorler fonksiyonun önüne @ işareti konularak oluşturulur. Buna 'pie syntax' denir.
 Python'da test yazma ve çalıştırma sürecini kolaylaştırır.
